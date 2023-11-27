@@ -142,7 +142,7 @@ var APP_DATA = {
         },
         {
           yaw: -2.3882080352112425,
-          pitch: -0.6732913814285632,
+          pitch: -0.68458263523910865,
           title: "Challenge 1: Organelle Function Quiz",
           text: "<div>Embark on a journey to understand the powerhouse of the cell, the mitochondria, through a quiz. Discover how each organelle powers life.</div><div><br></div><div>As you find yourself in the midst of a cellular maze, your first task is to navigate the mitochondria, the cell's powerhouse. Here, you'll be quizzed on the vital functions of various cell organelles. Each question is a stepping stone to understanding how these tiny structures sustain life within the cell. Remember, your knowledge of these organelles is crucial for your journey through this microscopic world.</div><div><br></div><div><br></div><div><div>&nbsp;**Resource**: Google Form with 10 questions about cell organelles.</div><div>**Educational Resource**: Kenhub or National Geographic.</div><div>**Code/Hints**: First part of the code provided after the quiz.</div></div><div><br></div>",
         },
