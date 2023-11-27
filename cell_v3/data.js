@@ -105,8 +105,8 @@ var APP_DATA = {
           text: "<div>The nucleus, containing genetic material, is the control center of the cell.&nbsp; The nucleus, encased in a double membrane, is the repository of genetic information in eukaryotic cells. It directs cellular activities by controlling gene expression and orchestrates the growth, division, and differentiation of cells. It's the mastermind behind the cell's functioning.</div><div><br></div>",
         },
         {
-          yaw: 2.4127576324358353,
-          pitch: 0.4769099228290532,
+          yaw: 1.8127576324358353,
+          pitch: 0.3969099228290532,
           title: "7 - Lysosome",
           text: "<div>Lysosomes are the cell's 'garbage disposals,' containing enzymes to break down waste and cellular debris. Lysosomes are membrane-bound organelles containing hydrolytic enzymes responsible for breaking down all types of biological polymers—proteins, nucleic acids, carbohydrates, and lipids. These organelles are crucial for digesting excess or worn-out organelles, food particles, and engulfed viruses or bacteria. The lysosome maintains an acidic environment optimal for the enzymes to function. By recycling the cell's waste, lysosomes are fundamental to the cell's health and survival, often referred to as the stomach of the cell.</div><div><br></div>",
         },
