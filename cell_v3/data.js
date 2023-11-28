@@ -36,7 +36,14 @@ var APP_DATA = {
           target: "1-cellextjpg1",
         },
       ],
-      infoHotspots: [],
+      infoHotspots: [
+        {
+          yaw: 0.81233670017903918,
+          pitch: -0.20045611523168013,
+          title: "It Begins...",
+          text: "As you're walking to school with your friends, chaos suddenly erupts on the streets around you. Amidst the confusion, a giant amorphous tentacle bursts through the smoke and engulfs you. You find yourself trapped inside a massive single-celled alien organism. Fortunately, its cell structure is similar to the organisms you're familiar with on Earth. Use your knowledge of cell structure to navigate through this alien cell and escape before you're consumed. Your understanding of biology is now your key to survival.",
+        },
+      ],
     },
     {
       id: "1-cellextjpg1",
