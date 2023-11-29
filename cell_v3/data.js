@@ -121,7 +121,7 @@ var APP_DATA = {
           yaw: -2.3882080352112425,
           pitch: 0.034819576690169995,
           title: "Challenge 5: Protein Structure Jigsaw Puzzle",
-          text: "<div>At the Golgi Apparatus, piece together the protein puzzle. Visualize protein structures and their roles in the cell.</div><div><br></div><div>Your journey leads you to the Golgi Apparatus, a central hub for protein sorting. Here, you are tasked with constructing a jigsaw puzzle that mirrors the intricate structure of proteins. This challenge is a hands-on exploration of how proteins are assembled and function within the cell. Understanding this is key to grasping the cell's inner workings. The pieces of the puzzle represent the building blocks of life, and your task is to bring them together coherently.</div><div><div><br/><a href='https://tinyurl.com/4vapw3hp' target='_blank'>*****Quiz #5*****</a></div><br/></div>",
+          text: "<div>At the Golgi Apparatus, piece together the protein puzzle. Visualize protein structures and their roles in the cell.</div><div><br></div><div>Your journey leads you to the Golgi Apparatus, a central hub for protein sorting. Here, you are tasked with constructing a jigsaw puzzle that mirrors the intricate structure of proteins. This challenge is a hands-on exploration of how proteins are assembled and function within the cell. Understanding this is key to grasping the cell's inner workings. The pieces of the puzzle represent the building blocks of life, and your task is to bring them together coherently.</div><div><div><br/><br/><a href='https://tinyurl.com/w6jb87hc' target='_blank'>Puzzle</a></div><br/><div><a href='https://tinyurl.com/yfhrnm2e' target='_blank'>*****Quiz #5*****</a></div></div><div><br></div>",
         },
         {
           yaw: -2.3882080352112425,
@@ -139,7 +139,7 @@ var APP_DATA = {
           yaw: -2.3882080352112425,
           pitch: -0.31122762262468214,
           title: "Challenge 3: DNA Slide Puzzle",
-          text: "<div>At the ribosomes, solve a DNA puzzle to understand genetic coding. Complete the slide puzzle and quiz for DNA insights.</div><div><br></div><div>At the site of protein synthesis, the ribosomes, a complex DNA puzzle awaits. This challenge requires you to piece together the puzzle of life – the DNA molecule. As you align each segment, you're not only solving a physical puzzle but also decoding the genetic language. A subsequent quiz will further test your understanding of DNA's structure and significance. Successful completion is another step towards your cellular escape.</div><div><div><br/><a href='https://tinyurl.com/3mzmyjwe' target='_blank'>*****Quiz #3*****</a></div><br/></div>",
+          text: "<div>At the ribosomes, solve a DNA puzzle to understand genetic coding. Complete the slide puzzle and quiz for DNA insights.</div><div><br></div><div>At the site of protein synthesis, the ribosomes, a complex DNA puzzle awaits. This challenge requires you to piece together the puzzle of life – the DNA molecule. As you align each segment, you're not only solving a physical puzzle but also decoding the genetic language. A subsequent quiz will further test your understanding of DNA's structure and significance. Successful completion is another step towards your cellular escape.</div><div><div><br/><br/><a href='https://tinyurl.com/5n9x4mkf' target='_blank'>Puzzle</a></div><br/><div><a href='https://tinyurl.com/37ja5ybt' target='_blank'>*****Quiz #3*****</a></div></div><div><br></div>",
         },
         {
           yaw: -2.3882080352112425,
